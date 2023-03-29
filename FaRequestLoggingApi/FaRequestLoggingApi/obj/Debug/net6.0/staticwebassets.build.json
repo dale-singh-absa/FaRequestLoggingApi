@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tZl9qnfCS+zlCMSDD3Y4l2tlzOtiHs6rs3iF5gKhoGs=",
+  "Source": "FaRequestLoggingApi",
+  "BasePath": "_content/FaRequestLoggingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
